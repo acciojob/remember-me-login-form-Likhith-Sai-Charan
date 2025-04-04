@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+}
+
+#existing {
+  display: none;
+  margin-top: 1rem;
+}
